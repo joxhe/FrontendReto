@@ -1,4 +1,4 @@
-import "./Register.css";
+import "./register.css";
 import imgDecorativa2 from "./decorativa2.jpg"; // tu segunda imagen
 import { Link } from 'react-router-dom';
 
